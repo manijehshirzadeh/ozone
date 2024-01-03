@@ -1,6 +1,28 @@
 // Custom bootstrap variables must be set or imported *before* bootstrap.
 @import "bootstrap";
 
+.green {
+    background-color: green;
+}
+.yellow {
+    background-color: yellow;
+}
+.orange {
+    background-color: orange;
+}
+.red {
+    background-color: red;
+}
+.purple {
+    background-color: purple;
+}
+.marron {
+    background-color: marron;
+} 
+.gray {
+    background-color: gray;
+} 
+
 //= require jquery3
 //= require popper
 //= require bootstrap
