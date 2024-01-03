@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby "3.2.2"
+ruby "2.7.0"
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.1.2"
@@ -8,6 +8,7 @@ gem "rails", "~> 7.1.2"
 gem "bootstrap", "~> 5.3"
 gem "jquery-rails"
 gem "dartsass-sprockets"
+gem "json", "~> 2.6", ">= 2.6.3"
 
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
